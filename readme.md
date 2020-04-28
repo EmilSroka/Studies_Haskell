@@ -9,3 +9,4 @@ Labs thematic scope:
 
 Complementary exercises:
 1. Operations on lists
+2. More list operations, random numbers, filtering
